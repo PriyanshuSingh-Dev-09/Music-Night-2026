@@ -1,0 +1,1 @@
+1. Music Night 2026 🎵 Music Night 2026 is a simple music event website 2. Pages - Home - Schedule - Highlights - Register 3. Feature - Music event information - Event schedule - Event highlights - Ticket plans - Registration form - Event venue details - Dark and pink theme 4. Technologies Used - HTML - Tailwind CSS - Custom CSS
